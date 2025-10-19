@@ -1,0 +1,1 @@
+here there is some images where you can test on, and open them at the end of the file pytorch_nn execution to test the model on some images
