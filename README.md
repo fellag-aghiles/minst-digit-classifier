@@ -1,2 +1,4 @@
-# minst-digit-classifier
-A MNIST digit classifier using a Convolutional Neural Network (CNN). The model is trained on 80% of the MNIST dataset and validated on the remaining 20%. The architecture consists of three convolutional layers with ReLU activation functions, followed by one fully connected (dense) layer with 10 output units to classify digits from 0 to 9
+
+This program is my approach to solving the MNIST Digit dataset. It enables users to draw a number on the screen, and the program predicts the digit using a simple neural network model.
+
+
